@@ -7,8 +7,7 @@
 A machine learning project to predict diabetes risk using diagnostic measurements, featuring comprehensive EDA, class imbalance handling, and multiple ML models.
 
 **Repository**: [github.com/MehmoodBhutta/diabetes](https://github.com/MehmoodBhutta/diabetes)  
-**LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile) *(Replace with your actual LinkedIn URL)*
-
+**LinkedIn**: [Connect with me]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mehmood-jb/)) ]
 ## 📌 Key Features
 - Complete data cleaning pipeline with missing value handling
 - Detailed Exploratory Data Analysis (EDA) with visualizations
